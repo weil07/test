@@ -52,3 +52,4 @@ main()
 	a1 = r*r*PI;
 	printf("the result is a1=%f\n",a1);
 }
+以上是C语言的内容
